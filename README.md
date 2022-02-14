@@ -8,7 +8,7 @@ in the future I will add moderation commands
 and many more things :D I hope you enjoy
 # Fel-Bot
 the available commands are these:
-fe/say
+fel/say
 fel/random-number
 fel/nsfw
 fe/dogs
