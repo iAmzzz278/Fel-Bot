@@ -14,7 +14,7 @@ in the future I will add moderation commands
 
 and many more things :D I hope you enjoy
 
-#Fel-Bot
+# Fel-Bot
 
 ![](https://cdn.discordapp.com/attachments/942189261229264920/942649586797912124/GJ_moveBtn-uhd.png)
 
