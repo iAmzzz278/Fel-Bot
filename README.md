@@ -11,8 +11,8 @@ the available commands are these:
 fel/say
 fel/random-number
 fel/nsfw
-fe/dogs
-fe/cats
+fel/dogs
+fel/cats
 fel/help
 fel/author
 # See you soon!
